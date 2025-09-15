@@ -44,9 +44,3 @@ A aplicação **Bola pra Frente** oferece uma solução simples, interativa e fu
 
 ---
 
-## ⚙️ Como Executar  
-
-1. Certifique-se de ter o **Python 3.x** instalado em sua máquina.  
-2. Clone este repositório:  
-   ```bash
-   git clone https://github.com/SEU_USUARIO/bola-pra-frente.git
